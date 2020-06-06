@@ -1,2 +1,1 @@
-# MyPhotography-Website
-First Project Photography website
+TinDog Starting Files
